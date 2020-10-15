@@ -1,2 +1,2 @@
-[![Heroku](https://heroku-badge.herokuapp.com/?app=matthew-ball)]
+![Heroku](https://heroku-badge.herokuapp.com/?app=matthew-ball)
 
